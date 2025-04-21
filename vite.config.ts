@@ -7,7 +7,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/',
+  base: '/farmcia-ia_v9/',
   build: {
     outDir: 'dist',
     sourcemap: false,
