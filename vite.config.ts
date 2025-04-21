@@ -9,7 +9,7 @@ export default defineConfig({
   },
   base: '/farmcia-ia_v9/',
   build: {
-    outDir: 'dist',
+    outDir: 'docs',
     sourcemap: false,
     rollupOptions: {
       output: {
